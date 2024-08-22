@@ -1,1 +1,4 @@
-
+Write the value justification
+i) 2*(3+4)
+ii) 2*3+4
+iii) 2+3*4
