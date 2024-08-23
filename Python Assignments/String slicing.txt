@@ -2,11 +2,10 @@
 Write statements in python to implement the following
 a) To display the last four characters.
 b) To display the substring starting from index 4 and ending at index 8.
-d) To trim the last four characters from the string.
-e) To trim the first four characters from the string.
-f) To display the starting index for the substring "Wa".
-g) To change the case of the given string.
-i) To replace all the occurrences of letter "a‟ in the string with "*"
+c) To trim the first four characters from the string.
+d) To display the starting index for the substring "Wa".
+e) To change the case of the given string.
+f) To replace all the occurrences of letter "a‟ in the string with "*"
 
 2. Give the output of the following statements
 str='Honesty is the best policy'
