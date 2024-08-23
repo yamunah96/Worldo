@@ -45,7 +45,7 @@ Output:
 nisu
 
 
-6.What would be the output of the following code?
+6. What would be the output of the following code?
 s = 'doubled'
 print(s[1:6][1:3])
 
