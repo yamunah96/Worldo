@@ -13,7 +13,7 @@ str.replace('o','*')
 3. Write the output of the following :
 str= "String Slicing in Python"
 a) print(str[13:18])
-b)print(str[-2:-4:-2])
+b) print(str[-2:-4:-2])
 c) print(str[12:18:2])
 d) print(str[-17:-1:1])
 e) print(str[-6:-20:-2])
@@ -52,4 +52,19 @@ print(s[1:6][1:3])
 s = 'coder'
 print(s[::0])
 
+8. Select the correct output of the following String operations
+str1 = 'Welcome'
+print (str1[:6] + ' PYnative')
+a) Welcome PYnative
+b) WelcomPYnative
+c) Welcom PYnative
+d) WelcomePYnative
 
+9. Guess the correct output of the following code?
+str1 = "PYnative"
+print(str1[1:4], str1[:5], str1[4:], str1[0:-1], str1[:-1])
+a)PYn PYnat ive PYnativ vitanYP
+b)Yna PYnat tive PYnativ vitanYP
+c)Yna PYnat tive PYnativ PYnativ
+
+10. Take a string called pineapples by using string slicing to print only apples in the console.
